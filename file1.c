@@ -1,5 +1,4 @@
 #include<stdio.h>
-<<<<<<< HEAD
 int sub(int a, int b)
 {
     return a-b;
